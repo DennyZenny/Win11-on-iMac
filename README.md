@@ -10,3 +10,4 @@ This tutorial will show you how to install Windows 11 on a Late 2012 iMac using 
 - Rufus which can be found at its [official site](https://rufus.ie/en/) or on the [Microsoft Store](https://apps.microsoft.com/detail/9pc3h3v7q9ch?hl=en-us&gl=US).
 ## Steps
 1. Download a Windows 11 ISO from Microsofts Website
+![ms_w11_iso_site](https://github.com/user-attachments/assets/9834a60c-c88b-4ff2-b02f-318e8429497b)
